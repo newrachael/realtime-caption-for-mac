@@ -2,6 +2,8 @@
 
 Realtime Caption for Mac is a native macOS menu bar app that captures user-approved computer audio and streams it to OpenAI Realtime Translation for low-latency subtitles.
 
+![Realtime Caption for Mac architecture](../img/architecture.svg)
+
 ## Runtime Flow
 
 ```text

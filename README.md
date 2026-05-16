@@ -8,6 +8,12 @@ This project is intentionally built as a debuggable reference implementation rat
 
 ![Realtime Caption for Mac running with translated captions](img/realtime-caption-for-mac-clean-screenshot.png)
 
+## Architecture
+
+![Realtime Caption for Mac architecture](img/architecture.svg)
+
+See [Docs/Architecture.md](Docs/Architecture.md) for implementation notes and runtime boundaries.
+
 ## Project Goals
 
 - Test OpenAI Realtime Translation with live macOS system/app audio.
