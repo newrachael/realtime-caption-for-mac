@@ -4,6 +4,10 @@ Research-oriented native macOS app for exploring realtime translated subtitles f
 
 This project is intentionally built as a debuggable reference implementation rather than a polished commercial translator. It focuses on making the macOS audio-capture pipeline, OpenAI Realtime Translation session, subtitle buffering, and failure modes visible enough to inspect and iterate on.
 
+## Screenshot
+
+![Realtime Caption for Mac running with translated captions](img/realtime-caption-for-mac-clean-screenshot.png)
+
 ## Project Goals
 
 - Test OpenAI Realtime Translation with live macOS system/app audio.
