@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>CFBundleDevelopmentRegion</key>
+  <string>en</string>
+  <key>CFBundleExecutable</key>
+  <string>SoundTranslator</string>
+  <key>CFBundleIdentifier</key>
+  <string>com.yurari.soundtranslator</string>
+  <key>CFBundleInfoDictionaryVersion</key>
+  <string>6.0</string>
+  <key>CFBundleName</key>
+  <string>Realtime Caption for Mac</string>
+  <key>CFBundlePackageType</key>
+  <string>APPL</string>
+  <key>CFBundleShortVersionString</key>
+  <string>0.1.0</string>
+  <key>CFBundleVersion</key>
+  <string>9</string>
+  <key>LSMinimumSystemVersion</key>
+  <string>14.0</string>
+  <key>LSUIElement</key>
+  <true/>
+  <key>NSAudioCaptureUsageDescription</key>
+  <string>Realtime Caption for Mac captures approved system or app audio so it can generate realtime translated subtitles.</string>
+  <key>NSScreenCaptureUsageDescription</key>
+  <string>Realtime Caption for Mac uses ScreenCaptureKit to receive system audio samples for realtime subtitle translation.</string>
+  <key>NSHumanReadableCopyright</key>
+  <string>Copyright © 2026</string>
+</dict>
+</plist>

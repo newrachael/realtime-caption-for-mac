@@ -1,0 +1,24 @@
+.DS_Store
+
+# SwiftPM build artifacts and caches
+.build/
+.swiftpm/
+
+# Local packaged app artifacts
+dist/
+*.app
+*.dmg
+*.zip
+*.xcarchive
+
+# Local diagnostics and captured audio
+*.log
+*.wav
+
+# Signing and local secrets
+*.p12
+*.pem
+*.key
+*.mobileprovision
+.env
+.env.*
